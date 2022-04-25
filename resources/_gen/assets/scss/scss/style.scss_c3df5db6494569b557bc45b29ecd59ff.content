@@ -28,7 +28,7 @@ p, .p {
   font-size: 20px; }
   @media (max-width: 991px) {
     p, .p {
-      font-size: 18px; } }
+      font-size: 15px; } }
 h1, .h1 {
   font-size: 120px;
   line-height: 1 !important; }
