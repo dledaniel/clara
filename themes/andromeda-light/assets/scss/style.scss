@@ -7,7 +7,7 @@ $primary-color: {{.primary_color | default "#FE6019"}};
 
 
 // Font Variables
-$h1: {{.h1 | default "48px"}};
+$h1: {{.h1 | default "120px"}};
 $h1-md: {{.h1_md | default "38px"}};
 $h2: {{.h2 | default "38px"}};
 $h2-md: {{.h2_md | default "30px"}};
