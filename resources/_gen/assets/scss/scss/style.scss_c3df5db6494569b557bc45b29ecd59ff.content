@@ -28,13 +28,13 @@ p, .p {
   font-size: 20px; }
   @media (max-width: 991px) {
     p, .p {
-      font-size: 15px; } }
+      font-size: 18px; } }
 h1, .h1 {
   font-size: 120px;
   line-height: 1 !important; }
   @media (max-width: 991px) {
     h1, .h1 {
-      font-size: 80px; } }
+      font-size: 60px; } }
 h2, .h2 {
   font-size: 48px; }
   @media (max-width: 991px) {
