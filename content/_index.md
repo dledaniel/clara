@@ -76,17 +76,17 @@ how_it_works:
   - subtitle: ""
     title: "HVAD BETYDER DET DANSKE FORSVARSFORBEHOLD I EU?"
     description: "Forsvarsforbeholdet betyder, at Danmark som hovedregel ikke deltager i dele af EU’s udenrigs- og sikkerhedspolitik på forsvarsområdet. Vi deltager ikke i EU’s militære operationer, vi finansierer dem ikke, og vi stiller ikke med soldater og militært udstyr til EU-ledede missioner. Danmark deltager dog i civile operationer, som hidtil har udgjort hovedparten af EU’s missioner. Det forventes, at der i fremtiden vil være flere blandede civil-militære missioner, og at Danmark derfor ikke kan deltage i disse."
-    image: "images/features-01.png"
+    image: "images/eu.png"
 
   - subtitle: ""
     title: "FORSVARSFORBEHOLDET OG DANMARKS INDFLYDELSE"
     description: "Danmark har ikke stemmeret i Ministerrådet, når forsvarspolitikken behandles. Herudover har forbeholdet den konsekvens, at Danmark, når vi har formandskabet for Ministerrådet, skal overlade formandsrollen til et andet medlemsland, når der diskuteres forsvarspolitik. På trods af disse forhold deltager Danmark dog i de bredere og mere generelle diskussioner af den europæiske forsvarspolitik."
-    image: "images/features-02.png"
+    image: "images/eudk.png"
 
   - subtitle: ""
     title: "EU HAR INGEN HÆR"
     description: "EU har ikke nogen fælles hær. EU-landene kan beslutte, at de vil gennemføre en fælles EU-operation, men det er landene selv, der er ansvarlige for at udsende deres militære og civile bidrag. (EU kan ikke tvinge medlemslandene til at deltage i en mission.)"
-    image: "images/features-02.png"
+    image: "images/soldier.png"
 
 # stemmer_ja
 stemmer_ja:   
