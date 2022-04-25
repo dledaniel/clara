@@ -39,7 +39,7 @@ h2, .h2 {
   font-size: 48px; }
   @media (max-width: 991px) {
     h2, .h2 {
-      font-size: 18px; } }
+      font-size: 30px; } }
 h3, .h3 {
   font-size: 22px; }
   @media (max-width: 991px) {
