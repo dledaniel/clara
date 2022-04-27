@@ -6,14 +6,14 @@
       <div class="col-lg-12">
         <div class="block">
           <div class="section-title text-center mb-0" data-aos="fade-up">
-            <h2 class="title underline-none">{{.title | markdownify}}</h2>
-            <p>{{.content | markdownify}}</p>
+            <h2 class="title underline-none color-box">{{.title | markdownify}}</h2>
+            <p class="color-box">{{.content | markdownify}}</p>
             <a href="{{.button_link}}" class="btn btn-primary mt-4">{{.button}}</a>
           </div>
         </div>
 
         <div class="has-circle has-bg-anim" data-aos="fade-in">
-          <img class="wave-1 w-100" src="{{`images/waves/05.svg` | absURL}}" alt="*">
+          <!-- <img class="wave-1 w-100" src="{{`images/waves/05.svg` | absURL}}" alt="*"> -->
           <span class="circle-1 ratio-32"></span>
           <span class="circle-2 ratio-85 fill"></span>
           <span class="circle-3 ratio-47"></span>
@@ -81,7 +81,7 @@
 
           {{with site.Params.contact_info}}
           <ul class="footer-links list-unstyled">
-            <li>{{.address | markdownify}}</li>
+            <p>{{.address | markdownify}}</p>
             {{range first 1 .phone}}
             {{if .}}
             <li><a href="tel:{{.}}">{{.}}</a></li>
