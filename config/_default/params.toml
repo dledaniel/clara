@@ -66,7 +66,7 @@ button = "I Accept"
 [cta]
 enable = true
 title = "HAR DU FLERE SPØRGSMÅL?"
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+content = "EU er kompliceret. Og det er svært at finde hoved og hale i spin <br> og svære og finurlige formuleringer. Hvis du har yderligere spørgsmål <br> eller er i tvivl om noget, er du velkommen til at skrive til mig."
 button = "KOM I KONTAKT"
 button_link = "mailto:kontakt@clarahalvorsen.dk"
 
