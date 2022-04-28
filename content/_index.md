@@ -4,7 +4,7 @@ banner:
   title: "CLARA <br> HALVORSEN"
   description: "Vi skal stemme om en afskaffelse af det danske EU forsvarsforbehold den 1. juni i år. <br> Jeg er ikke i tvivl. Jeg stemmer ja!"
   button: "KOM I KONTAKT"
-  button_link: "mailto:kontakt@clarahalvorsen.dk"
+  button_link: "https://www.facebook.com/profile.php?id=100077737042472"
   image: "images/banner-clara.png"
 
 

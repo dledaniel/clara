@@ -37,7 +37,7 @@ reading_time = true
 [contact_info]
 address = "Hovedstadens Radikale Venstre: Kompagnistræde 22, 1208 København"
 phone = ["+45 28494672"]
-email = ["kontakt@clarahalvorsen.dk"]
+email = [""]
 
 # imaging processing
 [imaging]
@@ -53,7 +53,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "KOM I KONTAKT"
-link = "mailto:kontakt@clarahalvorsen.dk"
+link = "https://www.facebook.com/profile.php?id=100077737042472"
 
 # cookies
 [cookies]
@@ -68,7 +68,7 @@ enable = true
 title = "HAR DU FLERE SPØRGSMÅL?"
 content = "EU er kompliceret. Og det er svært at finde hoved og hale i spin <br> og svære og finurlige formuleringer. Hvis du har yderligere spørgsmål <br> eller er i tvivl om noget, er du velkommen til at skrive til mig."
 button = "KOM I KONTAKT"
-button_link = "mailto:kontakt@clarahalvorsen.dk"
+button_link = "https://www.facebook.com/profile.php?id=100077737042472"
 
 ############################# social site ########################
 [[social]]
