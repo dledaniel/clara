@@ -2,7 +2,7 @@
 # banner
 banner:
   subtitle: "CLARA HALVORSEN"
-  title: "STEM JA TIL EU <br> D. 1. JUNI!"
+  title: "STEM JA TIL EU D. 1. JUNI!"
   description: "Vi skal stemme om en afskaffelse af det danske EU forsvarsforbehold den 1. juni i år. <br> Jeg er ikke i tvivl. Jeg stemmer ja!"
   button: "KOM I KONTAKT"
   button_link: "https://www.facebook.com/profile.php?id=100077737042472"

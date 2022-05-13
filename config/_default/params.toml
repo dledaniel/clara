@@ -13,7 +13,7 @@ author = "Daniel Le"
 image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
 
 # footer information
-footer_info = "Clara Halvorsen, Medlem af Hovedbestyrelsen og Forretningsudvalget. Folketingskandidat for Radikale Venstre i Hovedstaden."
+footer_info = "Clara Halvorsen, Folketingskandidat for Radikale Venstre."
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
