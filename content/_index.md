@@ -47,7 +47,7 @@ features:
     content: "Vi har ikke adgang til EUs forsvarsfond der bl.a. kan koordinere medlemslandenes militære indkøb."
   - icon: "las la-globe-americas"
     title: "NR. 5"
-    content: "Lige nu er vi ret afhængige af amerikanerne for vores sikkerhed…?"
+    content: "Lige nu er vi afhængige af amerikanerne for vores sikkerhed."
 
 
 
