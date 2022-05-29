@@ -31,7 +31,7 @@ features:
   enable: true
   subtitle: ""
   title: "FEM GODE GRUNDE <br> TIL AT STEMME JA"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  description: ""
   features_blocks:
   - icon: "las la-ban"
     title: "NR. 1"
