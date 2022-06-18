@@ -1,8 +1,8 @@
 ---
 # banner
 banner:
-  subtitle: "CLARA HALVORSEN"
-  title: "STEM JA TIL EU D. 1. JUNI!"
+  subtitle: "FOLKETINGSKANDIDAT"
+  title: "CLARA HALVORSEN"
   description: "Vi skal stemme om en afskaffelse af det danske EU forsvarsforbehold den 1. juni i år. <br> Jeg er ikke i tvivl. Jeg stemmer ja!"
   button: "KOM I KONTAKT"
   button_link: "https://www.facebook.com/profile.php?id=100077737042472"
@@ -28,7 +28,7 @@ brands_carousel:
 
 # features
 features:
-  enable: true
+  enable: false
   subtitle: ""
   title: "FEM GODE GRUNDE <br> TIL AT STEMME JA"
   description: ""
@@ -53,7 +53,7 @@ features:
 
 # intro_video
 intro_video:   
-  enable: true
+  enable: false
   subtitle: ""
   title: "HVAD ER DET REELT VI STEMMER OM?"
   description: "EU er kompliceret. Og det er svært at finde hoved og hale i spin og svære og finurlige formuleringer. <br> Jeg har samlet nogle informationer fra EU-oplysningen, hvis du vil lære mere om forsvarsforbeholdet. <br> Der er også en video, der fortæller, hvordan vi er nået hertil. "
@@ -63,7 +63,7 @@ intro_video:
 
 # clara
 clara:   
-  enable: true
+  enable: false
   subtitle: "Who We Are"
   title: "VELKOMMEN TIL!"
   description: "Vi skal stemme om en afskaffelse af det danske EU forsvarsforbehold den 1. juni i år. Jeg er ikke i tvivl. Jeg stemmer ja, fordi jeg tror på et Danmark i hjertet af EU. Jeg håber du vil gøre det samme, men jeg forstår godt, hvis du stadig er i tvivl. Jeg har samlet nogle informationer og fortæller mere om mine argumenter for hvorfor vi skal sige ja sammen. Jeg håber du vil læse med."
@@ -72,7 +72,7 @@ clara:
 
 # how_it_works
 how_it_works:   
-  enable: true
+  enable: false
   block:
   - subtitle: ""
     title: "HVAD BETYDER DET DANSKE FORSVARSFORBEHOLD I EU?"
@@ -91,7 +91,7 @@ how_it_works:
 
 # stemmer_ja
 stemmer_ja:   
-  enable: true
+  enable: false
   subtitle: "Who We Are"
   title: "HVORFOR STEMMER JEG JA?"
   description: "Vi skal stemme om en afskaffelse af det danske EU forsvarsforbehold den 1. juni i år. Jeg er ikke i tvivl. Jeg stemmer ja, fordi jeg tror på et Danmark i hjertet af EU. Jeg håber du vil gøre det samme, men jeg forstår godt, hvis du stadig er i tvivl. Jeg har samlet nogle informationer og fortæller mere om mine argumenter for hvorfor vi skal sige ja sammen. Jeg håber du vil læse med."
